@@ -1,0 +1,10 @@
+# Dataset lives outside the repo (see README / config.m)
+data/
+# Generated outputs
+results/*
+!results/.gitkeep
+# MATLAB autosave / cache
+*.asv
+*.m~
+*.mat
+slprj/
